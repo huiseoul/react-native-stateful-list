@@ -1,0 +1,9 @@
+{
+  "name": "react-native-stateful-list",
+  "version": "0.1.0",
+  "description": "A simple wrapper for FlatList with loading states",
+  "main": "index.js",
+  "repository": "https://github.com/huiseoul/react-native-stateful-list",
+  "author": "Huiseoul Engineering Team",
+  "license": "MIT"
+}
